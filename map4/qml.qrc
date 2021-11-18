@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map.qml</file>
+        <file>mar.png</file>
+        <file>shark.png</file>
+        <file>tuna.png</file>
+        <file>right.png</file>
+        <file>tsmc.png</file>
+        <file>ncku.png</file>
+        <file>tuna01.png</file>
+        <file>tuna02.png</file>
+        <file>tuna001.png</file>
+        <file>tuna002.png</file>
+    </qresource>
+</RCC>
